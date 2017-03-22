@@ -14,7 +14,7 @@ set xlabel "log(k)"
 set ylabel "kY(k)"
 
 # set term png
-# set out 'Memo.png'
+# set out 'fugura.png'
 
 set term postscript eps enhanced color solid  
 set out name.'.eps'
